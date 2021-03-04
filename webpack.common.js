@@ -35,10 +35,6 @@ module.exports = {
         test: /\.png$/,
         type: 'asset/resource',
       },
-      {
-        test: /\.svg$/,
-        type: 'asset/inline',
-      },
     ],
   },
   plugins: [
